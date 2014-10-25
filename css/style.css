@@ -9,3 +9,69 @@
 .w3 {
     width: 150px;
 }
+ #formy{
+        height:100%;
+    }
+
+    .w{
+        width:150px;
+    }
+
+    body{
+        text-align:center;
+    }
+    html, body {
+        height: 100%;
+        text-align:center;
+    }
+
+    html {
+        background-color: #EFEFEF;
+    }
+
+    table, td, th {
+        border: 1px solid #CCC;
+        border-collapse: collapse;
+    }
+
+    td, th {
+        background-color: #FFF;
+        width: 50px;
+        height: 20px;
+        text-align: center;
+        vertical-align: middle;
+        font: 10px Verdana, sans-serif;
+    }
+    th {
+        background-color: #DDD;
+        font: bold 11px Verdana, sans-serif;
+        border-color: #BBB;
+    }
+    #wrapper{
+        height:100%;
+    }
+    .section{
+        text-align:center;
+    }
+    #myTable{
+        text-align:center;
+    }
+    section{
+        text-align:center;
+        margin-left:12px;
+    }
+
+    div.chart_div table {
+        width: auto;
+        margin: 0 auto !important;
+    }
+
+    #chart_div{
+        display: block;
+        margin: 0 auto;
+    }
+
+    #everything2{
+        width: 800;
+        margin: 0 auto !important;
+    }
